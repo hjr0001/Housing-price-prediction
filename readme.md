@@ -5,7 +5,6 @@ A machine learning project evaluating multiple regression techniques—from base
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hjr0001/Portfoliwebsite/blob/main/Housingprice.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -112,7 +111,3 @@ Or run directly in [Google Colab](https://colab.research.google.com/github/hjr00
 - [ ] Add residual analysis to test for heteroscedasticity and normality of errors.
 
 ---
-
-## License
-
-This project is distributed under the MIT License. See `LICENSE` for more information.
